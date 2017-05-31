@@ -1,5 +1,7 @@
 # JavaDB
 
+Лю Елиавета(GUI(DB Select, Insert, Update, Delete)+DB) Павленко Дмитрий (GUI(Sign In, Sign Up)+DB interface)
+
 Register - OK!
 
 Authorize - OK!
